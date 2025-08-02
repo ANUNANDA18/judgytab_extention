@@ -1,7 +1,7 @@
 # 🧠 JudgyTab: Your Passive-Aggressive Tab Companion
 
 ## 🎯 Basic Details  
-**Team Name**: UselessButFun  
+**Team Name**: WhyTho?  
 **Team Members**  
 - **Team Lead**: Anunanda M – Adi Shankara Institute of Engineering and Technology
 - **Member 2**: Devika T R –  Adi Shankara Institute of Engineering and Technology
@@ -75,3 +75,4 @@ We'll judge you every 10 seconds.
 ---
 
 > **Disclaimer**: This extension is purely for entertainment. No browsers were harmed in the roasting process. Probably.
+
