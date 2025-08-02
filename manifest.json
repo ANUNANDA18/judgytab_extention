@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "JudgyTab",
+  "version": "1.1",
+  "description": "A completely unhelpful Chrome extension that roasts your tabs for no reason.",
+  "permissions": ["tabs", "notifications"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "128": "icon.png"
+  },
+  "action": {
+    "default_title": "JudgyTab"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["sounds/*.mp3"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
